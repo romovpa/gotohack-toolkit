@@ -1,4 +1,5 @@
 #!/bin/bash
+git clone https://github.com/romovpa/gotohack-toolkit
 
 sudo apt-get install -y libxslt1-dev python3-pip 
 
