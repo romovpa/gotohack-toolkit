@@ -10,7 +10,7 @@ pip install --upgrade pymongo nltk openpyxl pymorphy2 plotly bokeh
 
 
 source activate jupyterhub_py3
-sudo apt-get install python3-pip 
+sudo apt-get install -y python3-pip 
 pip3 install --upgrade pip
 
 conda install -y pymongo
